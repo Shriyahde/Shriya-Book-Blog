@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+* {
+    font-family: 'Diphylleia';
+}
+
+#header {
+    padding: 15px;
+    border-bottom: 1px solid black;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#logo {
+    font-family: 'Protest Riot';
+    font-size: 2.4em;
+    text-decoration: none;
+    color: rgb(231, 96, 52);
+}
+
+.header-link {
+    text-decoration: none;
+    color: rgb(19, 109, 114);
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Protest Riot';
+    font-size: 1.5em;
+
+}

@@ -5,7 +5,7 @@ document.head.innerHTML = document.head.innerHTML + `
 document.body.innerHTML = 
 `
    <div id="header">
-        <a id="logo" href="/Shriya-Book-Blog">Shriya's Book Blog</a>
+        <a id="logo" href="/">Shriya's Book Blog</a>
         <a class="header-link" href="/Shriya-Book-Blog" id="home-link">Home</a>
         <a class="header-link" href="about.html" id="about-link">About</a>
         <a target="_blank" class="header-link" href="https://forms.gle/RvpGVCPcF9U4Ur2p7" id="book-club-link">Enroll in a Book Club</a>
